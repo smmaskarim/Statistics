@@ -1,2 +1,2 @@
-This is about "Statistics for Data Science with Python".
+This is about "Statistics for Biological Data Analysis".
 
